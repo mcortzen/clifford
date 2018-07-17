@@ -27,6 +27,8 @@ be mixed freely and consistently in the form of mixed-grade multivectors.
 
 If you think Geometric Algebra looks interesting and want to learn more, check out the `cambridge groups page <http://geometry.mrao.cam.ac.uk/>`_,  and here are some great introductory textbooks!
 
+Also feel free to get a formula collection at: http://ctz.dk/geometric-algebra/
+
 * Geometric Algebra for Physicists, by Doran and Lasenby
 * Geometric Algebra for Computer Science, by Dorst, Fontijne and Mann
 * New Foundations for Classical Mechanics, by David Hestenes
